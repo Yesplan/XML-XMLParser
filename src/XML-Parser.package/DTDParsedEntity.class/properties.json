@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "XML-Parser-DTD",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"replacement",
+		"uri"
+	],
+	"name" : "DTDParsedEntity",
+	"type" : "normal"
+}

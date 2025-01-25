@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"parseParen:" : "monty 12/29/2013 02:24",
+		"applyOperator:" : "monty 12/30/2013 22:29",
+		"errorMissingOperand" : "monty 12/18/2013 22:44",
+		"errorMismatchedParens" : "monty 12/18/2013 22:44",
+		"hasOperatorOnStack" : "monty 11/2/2014 09:17",
+		"popParenthesizedOperators" : "monty 12/28/2013 23:02",
+		"parserForSpecialCharacter:" : "monty 1/8/2016 07:08",
+		"applyBinaryOperatorOnStack" : "monty 12/28/2013 19:46",
+		"popRemainingOperators" : "monty 12/18/2013 22:44",
+		"isSpecialCharacter:" : "monty 1/16/2014 05:09",
+		"parseBinaryOperator:" : "monty 12/29/2013 02:23",
+		"isBinaryOperator:higherPrecedenceThan:" : "monty 12/18/2013 22:44",
+		"parse" : "monty 11/10/2015 17:11",
+		"parseUnaryOperator:" : "monty 12/29/2013 02:23"
+	},
+	"class" : {
+		"initialize" : "monty 1/12/2015 00:31",
+		"initializeOperatorApplicators" : "monty 12/8/2014 15:48",
+		"initializeSpecialCharacterParsers" : "monty 12/8/2014 15:48"
+	}
+}

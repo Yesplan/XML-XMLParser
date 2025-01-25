@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"argumentsSentWith:" : "monty 4/12/2015 08:23",
+		"messageRecorder" : "monty 4/12/2015 08:09",
+		"allSentMessagesNamed:" : "monty 4/12/2015 08:22",
+		"parser" : "monty 12/6/2013 22:37",
+		"doesNotUnderstand:" : "monty 12/4/2015 08:28",
+		"saxHandler:" : "monty 12/6/2013 22:23",
+		"isHandlerMessage:" : "monty 12/4/2015 08:31",
+		"parseDocument" : "monty 12/6/2013 22:38",
+		"wasSentSelectors:" : "monty 4/13/2015 02:45"
+	},
+	"class" : {
+		"on:" : "monty 11/26/2014 06:28",
+		"saxHandler:" : "monty 12/6/2013 22:23"
+	}
+}

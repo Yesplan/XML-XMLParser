@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"testIsInLanguage" : "monty 12/23/2014 21:04",
+		"testIsNamedAny" : "monty 11/23/2014 05:06",
+		"testCopy" : "monty 11/22/2014 20:14",
+		"testExpandedName" : "monty 12/30/2014 02:39",
+		"escapedString" : "monty 11/23/2014 00:03",
+		"testCanonicallyEquals" : "monty 12/6/2014 14:24",
+		"testWriteXMLOn" : "monty 11/23/2014 05:17",
+		"testElement" : "monty 11/19/2014 21:06",
+		"testIsAttribute" : "monty 1/29/2015 00:31",
+		"testValue" : "monty 11/23/2014 20:16",
+		"testLocalName" : "monty 11/23/2014 20:21",
+		"testHasNamespaceURI" : "monty 2/13/2015 22:25",
+		"testNameValue" : "monty 11/23/2014 04:55",
+		"testSortKey" : "monty 12/3/2014 01:10",
+		"testNamespaceURI" : "monty 11/23/2014 20:33",
+		"testName" : "monty 11/23/2014 20:23",
+		"nodeClass" : "monty 11/2/2014 11:17",
+		"testIsNamed" : "monty 11/23/2014 05:01",
+		"testHasLanguage" : "monty 12/23/2014 16:18",
+		"testHasPrefix" : "monty 11/23/2014 20:28",
+		"testPrefix" : "monty 11/23/2014 20:27"
+	},
+	"class" : { }
+}

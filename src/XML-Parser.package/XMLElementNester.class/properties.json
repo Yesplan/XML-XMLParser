@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "monty 12/27/2014 03:06",
+	"super" : "Object",
+	"category" : "XML-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"openElements",
+		"rootElement",
+		"hasExternalRootElement",
+		"scopedAttributes"
+	],
+	"name" : "XMLElementNester",
+	"type" : "normal"
+}

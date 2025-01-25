@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"changeElement:" : "monty 1/17/2015 11:24",
+		"afterAddingToNotifications" : "monty 1/17/2015 11:06",
+		"reverseSortBlock" : "monty 1/17/2015 11:25",
+		"listClass" : "monty 1/17/2015 11:07",
+		"allowsDuplicates" : "monty 1/18/2015 11:26",
+		"beforeAddingToNotifications" : "monty 1/17/2015 11:06",
+		"absentElement" : "monty 1/17/2015 11:09",
+		"listElements" : "monty 1/18/2015 18:09",
+		"observerClass" : "monty 1/17/2015 11:12",
+		"newElement" : "monty 1/17/2015 11:10",
+		"sortBlock" : "monty 1/17/2015 11:25",
+		"afterRemovingFromNotifications" : "monty 1/17/2015 11:06",
+		"assertList:copiedFrom:equals:" : "monty 1/17/2015 14:57",
+		"assertList:isCopyOf:" : "monty 1/17/2015 14:57"
+	},
+	"class" : { }
+}

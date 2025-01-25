@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "monty 1/20/2016 10:45",
+	"super" : "Object",
+	"category" : "ConfigurationOfXMLParser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"LastVersionLoad"
+	],
+	"instvars" : [
+		"project"
+	],
+	"name" : "ConfigurationOfXMLParser",
+	"type" : "normal"
+}

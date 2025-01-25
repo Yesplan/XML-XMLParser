@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "monty 10/14/2014 00:42",
+	"super" : "TestCase",
+	"category" : "XML-Tests-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IsSkipping"
+	],
+	"instvars" : [ ],
+	"name" : "XMLExternalEntityTest",
+	"type" : "normal"
+}

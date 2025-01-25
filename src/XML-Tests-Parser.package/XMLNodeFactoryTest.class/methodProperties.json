@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"commentClass" : "monty 11/1/2014 15:59",
+		"piClass" : "monty 11/1/2014 16:02",
+		"testParsingSample" : "monty 11/4/2014 20:23",
+		"testAsPluggableNodeFactory" : "monty 4/17/2015 10:49",
+		"testNewElementNamed" : "monty 11/22/2014 23:05",
+		"testNewComment" : "monty 11/22/2014 23:02",
+		"testNewPI" : "monty 11/22/2014 23:06",
+		"stringClass" : "monty 11/1/2014 15:59",
+		"testNewElement" : "monty 11/22/2014 23:05",
+		"factoryClass" : "monty 11/1/2014 15:56",
+		"testNewString" : "monty 11/22/2014 23:06",
+		"testNewDocument" : "monty 11/22/2014 23:03",
+		"testNewElementNamedNamespaceURI" : "monty 11/22/2014 23:07",
+		"cdataClass" : "monty 11/1/2014 15:59",
+		"sampleUserXML" : "monty 11/1/2014 21:32",
+		"elementClass" : "monty 11/1/2014 16:01",
+		"testNewCData" : "monty 11/22/2014 23:02",
+		"documentClass" : "monty 11/1/2014 16:00",
+		"newFactory" : "monty 11/1/2014 15:56"
+	},
+	"class" : { }
+}

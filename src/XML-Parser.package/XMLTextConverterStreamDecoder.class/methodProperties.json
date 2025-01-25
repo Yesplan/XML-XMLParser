@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"printOn:" : "monty 4/25/2015 00:58",
+		"encodingName:" : "monty 4/25/2015 16:32",
+		"textConverter" : "monty 11/12/2014 01:55",
+		"nextFromStream:" : "monty 11/17/2014 21:14",
+		"textConverter:" : "monty 11/12/2014 01:54"
+	},
+	"class" : {
+		"textConverterCache" : "monty 1/12/2015 00:37",
+		"canDecodeEncoding:" : "monty 11/12/2014 04:36",
+		"textConverterForEncoding:" : "monty 1/12/2015 00:34"
+	}
+}

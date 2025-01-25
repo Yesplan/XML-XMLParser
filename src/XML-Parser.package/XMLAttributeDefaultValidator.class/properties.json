@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "XML-Parser-Validation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"defaultValue",
+		"attribute"
+	],
+	"name" : "XMLAttributeDefaultValidator",
+	"type" : "normal"
+}

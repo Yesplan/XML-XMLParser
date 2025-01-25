@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "monty 6/15/2015 23:55",
+	"super" : "XMLParserTokenizer",
+	"category" : "XML-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"AdditionalNameChars",
+		"EncodingNameChars",
+		"NameChars",
+		"NormalizedSpace",
+		"PubidChars"
+	],
+	"instvars" : [
+		"activeEntities",
+		"totalOpenIncludeSections"
+	],
+	"name" : "XMLWellFormedParserTokenizer",
+	"type" : "normal"
+}

@@ -1,0 +1,42 @@
+{
+	"instance" : {
+		"elementAt:" : "JAAyer 11/26/2010 12:32",
+		"contentNodes" : "monty 10/25/2014 21:08",
+		"elementAt:ifAbsent:" : "monty 11/26/2013 22:13",
+		"contentNodesDo:" : "monty 10/25/2014 21:08",
+		"elementsSelect:" : "monty 11/26/2013 22:08",
+		"afterRemoving:" : "monty 10/28/2014 19:05",
+		"elementsCollect:" : "JAAyer 11/26/2010 12:34",
+		"elementsDetect:ifNone:" : "monty 11/26/2013 22:10",
+		"hasStringNodes" : "monty 10/25/2014 21:01",
+		"lastElement" : "monty 10/29/2014 14:23",
+		"elementNames" : "monty 10/26/2014 08:19",
+		"contentStringAt:" : "monty 10/25/2014 22:02",
+		"elementAt:namespaceURI:" : "monty 3/21/2015 22:37",
+		"elementsDo:" : "monty 11/26/2013 22:11",
+		"hasElements" : "monty 11/26/2013 22:03",
+		"sort" : "monty 12/3/2014 00:45",
+		"stringNodes" : "monty 10/25/2014 20:59",
+		"stringNodesDo:" : "monty 10/25/2014 20:57",
+		"stringsDo:" : "monty 10/25/2014 20:58",
+		"elementsAt:" : "monty 11/26/2013 22:12",
+		"elementAfter:" : "monty 10/29/2014 14:27",
+		"elementAt:namespaceURI:ifAbsent:" : "monty 3/21/2015 22:37",
+		"elementsDetect:" : "JAAyer 11/26/2010 12:35",
+		"elements" : "monty 11/26/2013 22:07",
+		"afterAddingLast:" : "monty 1/21/2015 12:27",
+		"beforeAdding:" : "monty 10/28/2014 13:48",
+		"elementsAt:do:" : "monty 10/25/2014 21:58",
+		"hasContentNodes" : "monty 10/25/2014 21:01",
+		"strings" : "monty 10/25/2014 21:00",
+		"includesElement:" : "monty 10/25/2014 21:04",
+		"elementsAt:namespaceURI:" : "monty 3/21/2015 22:37",
+		"firstElement" : "monty 10/29/2014 14:23",
+		"afterAdding:at:" : "monty 1/21/2015 11:54",
+		"elementBefore:" : "monty 10/29/2014 14:27",
+		"renamedElement:from:to:" : "monty 10/18/2014 01:06"
+	},
+	"class" : {
+		"new" : "monty 4/16/2015 01:05"
+	}
+}

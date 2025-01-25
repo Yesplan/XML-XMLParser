@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"nextFromStream:" : "monty 11/17/2014 21:14",
+		"encodingName:" : "monty 4/25/2015 16:32",
+		"encodingName" : "monty 4/27/2015 00:15",
+		"isDefaultStreamDecoder" : "monty 11/14/2014 21:13"
+	},
+	"class" : {
+		"isDefaultStreamDecoder" : "monty 11/13/2014 05:35",
+		"defaultStreamDecoder" : "monty 11/13/2014 05:34",
+		"encodingNames:" : "monty 4/25/2015 16:33",
+		"preferredStreamDecoders" : "monty 11/12/2014 04:56",
+		"newForEncoding:" : "monty 4/25/2015 16:32",
+		"findStreamDecoderForEncoding:" : "monty 11/12/2014 04:59",
+		"initialize" : "monty 1/12/2015 00:36",
+		"canDecodeEncoding:" : "monty 12/14/2014 14:46",
+		"streamDecoderCache" : "monty 4/24/2015 11:42",
+		"defaultEncodingName" : "monty 4/24/2015 11:06",
+		"basicEncodingNames" : "monty 4/26/2015 23:57",
+		"encodingNames" : "monty 4/25/2015 16:32"
+	}
+}

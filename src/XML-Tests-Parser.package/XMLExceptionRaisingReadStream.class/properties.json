@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "monty 6/18/2015 00:58",
+	"super" : "Object",
+	"category" : "XML-Tests-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "XMLExceptionRaisingReadStream",
+	"type" : "normal"
+}

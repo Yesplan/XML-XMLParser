@@ -1,0 +1,1 @@
+This class represents string (character data) nodes. Instances are mutable and can be created using the class-side #string: message or by sending a String #asXMLString. When printing, they XML-escape special characters.

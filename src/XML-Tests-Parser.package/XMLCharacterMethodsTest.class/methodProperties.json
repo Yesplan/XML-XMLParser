@@ -1,0 +1,8 @@
+{
+	"instance" : {
+		"testXMLParserIsWhitespace" : "monty 4/7/2015 09:24",
+		"testXMLParserSplit" : "monty 11/14/2015 19:47",
+		"testXMLParserIsSeparator" : "monty 4/7/2015 09:24"
+	},
+	"class" : { }
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "monty 6/16/2015 01:29",
+	"super" : "XMLObservableList",
+	"category" : "XML-Parser-DOM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attributesByName"
+	],
+	"name" : "XMLAttributeList",
+	"type" : "normal"
+}

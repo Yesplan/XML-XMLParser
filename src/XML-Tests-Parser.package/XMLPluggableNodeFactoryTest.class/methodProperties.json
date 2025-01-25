@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"cdataClass" : "monty 11/1/2014 22:36",
+		"elementClass" : "monty 11/1/2014 22:37",
+		"factoryClass" : "monty 11/1/2014 16:51",
+		"documentClass" : "monty 11/1/2014 22:37",
+		"newFactory" : "monty 11/1/2014 21:44",
+		"commentClass" : "monty 11/1/2014 22:36",
+		"stringClass" : "monty 11/1/2014 22:38",
+		"piClass" : "monty 11/1/2014 22:38",
+		"testAsPluggableNodeFactory" : "monty 4/17/2015 10:49"
+	},
+	"class" : {
+		"shouldInheritSelectors" : "monty 11/24/2014 07:39"
+	}
+}

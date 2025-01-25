@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "monty 12/3/2015 07:20",
+	"super" : "XMLReadStreamAdapter",
+	"category" : "XML-Parser-Streams",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"streamDecoder",
+		"peekChar"
+	],
+	"name" : "XMLDecodingReadStreamAdapter",
+	"type" : "normal"
+}

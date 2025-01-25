@@ -1,0 +1,1 @@
+This is an abstract class for file handles to read/write/delete files. Subclasses need to implement the abstract methods.

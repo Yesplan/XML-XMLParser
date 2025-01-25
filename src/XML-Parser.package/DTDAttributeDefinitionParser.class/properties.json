@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "XML-Parser-DTD",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"DefaultValueValidators",
+		"NonEnumerationValidators"
+	],
+	"instvars" : [
+		"element",
+		"attribute",
+		"type",
+		"defaultValueValidator"
+	],
+	"name" : "DTDAttributeDefinitionParser",
+	"type" : "normal"
+}

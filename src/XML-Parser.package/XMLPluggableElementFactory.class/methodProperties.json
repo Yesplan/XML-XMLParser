@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"handleElements:withClass:" : "JAAyer 11/20/2010 11:36",
+		"handleElementsMatchingClasses:" : "JAAyer 11/20/2010 11:26",
+		"handleElement:namespaceURI:withClass:" : "monty 7/15/2015 09:31",
+		"toHyphenatedName:" : "JAAyer 11/20/2010 11:34",
+		"postCopy" : "monty 7/15/2015 09:27",
+		"initialize" : "monty 7/15/2015 09:27",
+		"handleElementsMatchingClass:" : "JAAyer 11/22/2010 11:10",
+		"handleElement:withClass:" : "JAAyer 11/13/2010 19:37",
+		"toCamelCasedName:" : "JAAyer 11/20/2010 11:29",
+		"handleElements:namespaceURI:withClass:" : "JAAyer 11/20/2010 11:39",
+		"toNameWithoutPrefixAndElementSuffix:" : "monty 12/14/2014 14:41",
+		"elementClassAtName:uri:" : "monty 7/15/2015 09:28",
+		"classForElement:prefix:uri:localName:" : "monty 7/15/2015 09:28",
+		"elementClasses" : "monty 7/15/2015 09:27"
+	},
+	"class" : { }
+}

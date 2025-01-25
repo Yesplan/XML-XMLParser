@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "XMLNodeList",
+	"category" : "XML-Parser-DOM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cachedElements",
+		"cachedElementsByName"
+	],
+	"name" : "XMLCachingNodeList",
+	"type" : "normal"
+}

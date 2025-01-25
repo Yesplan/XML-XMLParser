@@ -1,0 +1,1 @@
+This is a read stream that raises errors if sent peek or next when atEnd like streams on other platforms . Used to test portability.

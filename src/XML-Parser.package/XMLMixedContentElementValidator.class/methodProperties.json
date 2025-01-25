@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"validateStartTag:" : "monty 12/7/2013 19:51",
+		"setElement:allowedElements:" : "monty 12/7/2013 19:50",
+		"atEnd" : "monty 11/19/2013 01:14",
+		"allowedElements" : "monty 12/7/2013 19:51"
+	},
+	"class" : {
+		"element:allowedElements:" : "monty 12/7/2013 19:50"
+	}
+}

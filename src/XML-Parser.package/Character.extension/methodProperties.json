@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"xmlParserSplit:do:" : "monty 12/14/2014 12:25",
+		"xmlParserIsSeparator" : "monty 8/12/2015 08:59",
+		"xmlParserIsWhitespace" : "monty 8/12/2015 08:59",
+		"xmlParserSplit:" : "monty 12/14/2014 12:25"
+	},
+	"class" : {
+		"xmlParserSeparators" : "monty 4/16/2015 01:07",
+		"xmlParserWhitespace" : "monty 4/16/2015 01:07"
+	}
+}

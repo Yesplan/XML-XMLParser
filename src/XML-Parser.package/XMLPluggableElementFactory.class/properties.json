@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "XMLPluggableNodeFactory",
+	"category" : "XML-Parser-DOM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"elementClasses"
+	],
+	"name" : "XMLPluggableElementFactory",
+	"type" : "normal"
+}

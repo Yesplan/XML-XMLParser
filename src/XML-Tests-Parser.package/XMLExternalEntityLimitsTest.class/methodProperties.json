@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testResolvingLocalFromNonLocal" : "monty 1/24/2014 17:33",
+		"testOnURLUpToLimit" : "monty 12/3/2015 02:34",
+		"testExternalEntitiesLimit" : "monty 6/21/2015 03:02",
+		"testRemoveLimits" : "monty 5/25/2015 02:39",
+		"testDefaultLimits" : "monty 1/27/2015 23:06",
+		"testExternalSubsetReadLimit" : "monty 4/4/2015 06:02",
+		"testExternalEntitySizeLimit" : "monty 12/3/2015 02:33"
+	},
+	"class" : { }
+}

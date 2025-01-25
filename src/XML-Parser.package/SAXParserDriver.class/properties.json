@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "monty 6/16/2015 00:07",
+	"super" : "XMLParserDriver",
+	"category" : "XML-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"saxHandler",
+		"elementNester",
+		"scopeAllocator",
+		"doctypeDefinition",
+		"validator",
+		"externalSubsetURI",
+		"isStandalone",
+		"hasUnhandledReservedAttributes"
+	],
+	"name" : "SAXParserDriver",
+	"type" : "normal"
+}

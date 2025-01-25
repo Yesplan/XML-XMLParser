@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "monty 1/1/2015 21:00",
+	"super" : "Object",
+	"category" : "XML-Parser-Validation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"elementsAndNotationAttributes",
+		"unparsedEntities",
+		"notations"
+	],
+	"name" : "XMLUnparsedEntityValidator",
+	"type" : "normal"
+}

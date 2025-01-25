@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "monty 6/18/2015 00:43",
+	"super" : "SAXHandlerProxy",
+	"category" : "XML-Tests-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"handlerCallbacks"
+	],
+	"name" : "SAXHandlerPluggableProxy",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"validateDeclaration" : "monty 11/14/2015 20:33",
+		"elementIDValidator:" : "monty 3/21/2015 22:37",
+		"initializeWithValidatorsFrom:" : "monty 11/14/2015 20:29",
+		"elementIDValidator" : "monty 1/1/2015 19:49",
+		"validateAttributeValue:" : "monty 1/1/2015 21:32"
+	},
+	"class" : {
+		"classForAttribute:" : "monty 6/20/2015 20:30",
+		"element:attribute:defaultValueValidator:" : "monty 12/23/2014 18:33"
+	}
+}

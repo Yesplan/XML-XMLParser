@@ -1,0 +1,33 @@
+{
+	"instance" : {
+		"cachedElementsByName" : "monty 1/16/2015 13:50",
+		"elementAt:ifAbsent:" : "monty 1/17/2015 08:18",
+		"elementsSelect:" : "monty 1/17/2015 08:24",
+		"swap:with:" : "monty 2/2/2015 02:58",
+		"afterRemoving:" : "monty 2/2/2015 02:07",
+		"elementsDetect:ifNone:" : "monty 1/17/2015 08:16",
+		"copyClass" : "monty 1/17/2015 08:29",
+		"cachedElementsByNameAt:add:beforeNextAfterIndex:" : "monty 2/9/2015 06:06",
+		"elementsDo:" : "monty 1/16/2015 13:44",
+		"findElementAfterIndex:named:" : "monty 2/2/2015 00:30",
+		"hasElements" : "monty 1/16/2015 13:47",
+		"lastElement" : "monty 1/16/2015 14:00",
+		"rebuildCachedElements" : "monty 2/2/2015 02:58",
+		"uncacheElement:" : "monty 2/9/2015 06:00",
+		"elementsAt:" : "monty 1/16/2015 13:53",
+		"cachedElementsByNameAt:remove:" : "monty 2/9/2015 06:01",
+		"sort:" : "monty 2/2/2015 01:32",
+		"elements" : "monty 1/16/2015 13:43",
+		"afterAddingLast:" : "monty 2/2/2015 02:06",
+		"cachedElementsByNameAt:addLast:" : "monty 2/9/2015 06:08",
+		"cachedElements" : "monty 1/16/2015 13:46",
+		"cacheElement:addedAt:" : "monty 2/9/2015 06:00",
+		"cacheElementAddedLast:" : "monty 2/9/2015 06:00",
+		"includesElement:" : "monty 1/16/2015 13:48",
+		"firstElement" : "monty 1/16/2015 13:59",
+		"findElementAfterIndex:" : "monty 2/2/2015 15:34",
+		"afterAdding:at:" : "monty 2/2/2015 02:54",
+		"renamedElement:from:to:" : "monty 2/9/2015 06:00"
+	},
+	"class" : { }
+}

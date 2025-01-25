@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "monty 6/18/2015 00:41",
+	"super" : "SAXElementEventRecordingHandler",
+	"category" : "XML-Tests-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SAXElementPrefixURIEventRecordingHandler",
+	"type" : "normal"
+}

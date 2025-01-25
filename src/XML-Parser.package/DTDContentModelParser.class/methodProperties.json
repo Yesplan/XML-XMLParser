@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"setElement:contentModel:" : "monty 6/7/2015 19:43",
+		"parse" : "monty 12/21/2013 19:57"
+	},
+	"class" : {
+		"element:contentModel:" : "monty 6/7/2015 19:43",
+		"parserForContentModel:" : "monty 12/21/2013 20:00"
+	}
+}

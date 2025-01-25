@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "monty 6/16/2015 02:44",
+	"super" : "XMLNodeWithChildren",
+	"category" : "XML-Parser-DOM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"configuration"
+	],
+	"name" : "XMLNodeWithElements",
+	"type" : "normal"
+}

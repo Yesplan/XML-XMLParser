@@ -1,0 +1,1 @@
+A base class for HTTP requests. Subclasses need to implement the abstract requesting method to return the HTTP response as a string or raise an exception if an HTTP/network error happens or the response is too large.

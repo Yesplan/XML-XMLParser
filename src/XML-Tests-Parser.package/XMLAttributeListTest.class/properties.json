@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "XMLObservableListTest",
+	"category" : "XML-Tests-Parser-DOM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attributes",
+		"newAttribute",
+		"absentAttribute",
+		"changedAttributes"
+	],
+	"name" : "XMLAttributeListTest",
+	"type" : "normal"
+}

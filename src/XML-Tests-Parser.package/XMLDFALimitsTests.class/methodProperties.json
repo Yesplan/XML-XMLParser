@@ -1,0 +1,7 @@
+{
+	"instance" : {
+		"testDFAStateCacheLimit" : "monty 11/14/2015 07:22",
+		"testDFAStateTransitionLimit" : "monty 11/10/2015 22:26"
+	},
+	"class" : { }
+}

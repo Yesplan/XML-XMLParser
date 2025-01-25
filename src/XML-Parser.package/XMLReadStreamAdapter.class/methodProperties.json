@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"isStream" : "monty 12/8/2014 05:41",
+		"on:" : "monty 5/23/2015 22:06",
+		"peek" : "monty 12/8/2014 05:42",
+		"close" : "monty 5/23/2015 22:04",
+		"next" : "monty 12/8/2014 05:42",
+		"isBinary" : "monty 12/8/2014 05:41",
+		"stream" : "monty 5/23/2015 22:06",
+		"basicNext" : "monty 12/8/2014 08:42",
+		"atEnd" : "monty 12/8/2014 05:42"
+	},
+	"class" : {
+		"onStreamIfBinary:" : "monty 5/26/2015 01:17",
+		"on:" : "monty 12/8/2014 05:41"
+	}
+}

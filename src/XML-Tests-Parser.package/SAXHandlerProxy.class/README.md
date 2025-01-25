@@ -1,0 +1,1 @@
+This class wraps a SAXHandler and records handler event messages using a message recorder. Non-handler messages are forwarded to the SAXHandler.

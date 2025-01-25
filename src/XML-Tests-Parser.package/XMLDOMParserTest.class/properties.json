@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "XMLParserTest",
+	"category" : "XML-Tests-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"addressBookNamespacePrefixedXML",
+		"addressBookNamespacedXML"
+	],
+	"name" : "XMLDOMParserTest",
+	"type" : "normal"
+}

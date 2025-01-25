@@ -1,0 +1,1 @@
+A read stream for single characters. (faster and less memory than converting a char to a string and creating a read stream on it)

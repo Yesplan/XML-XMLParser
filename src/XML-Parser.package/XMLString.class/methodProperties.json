@@ -1,0 +1,38 @@
+{
+	"instance" : {
+		"writeXMLOn:" : "JAA 3/22/2011 15:15",
+		"replaceFrom:to:with:" : "monty 11/4/2014 18:54",
+		"notEmpty" : "monty 11/14/2015 20:06",
+		"replaceAll:with:" : "monty 11/4/2014 18:51",
+		"acceptsContent" : "monty 2/11/2014 00:14",
+		"isContentNode" : "JAAyer 7/20/2010 10:26",
+		"includesSubstring:" : "monty 12/9/2015 10:55",
+		"size" : "monty 11/3/2014 23:41",
+		"beginsWith:" : "monty 11/3/2014 21:43",
+		"asString" : "monty 1/1/2014 07:14",
+		"prepend:" : "monty 11/3/2014 21:43",
+		"validateWith:" : "monty 4/5/2015 21:04",
+		"isStringNode" : "JAAyer 4/12/2010 22:35",
+		"mergeAdjacent" : "monty 2/2/2015 17:30",
+		"sortKey" : "monty 12/2/2014 22:56",
+		"string" : "JAAyer 7/22/2010 05:19",
+		"contentString:" : "monty 11/4/2014 17:44",
+		"printRawContentOn:" : "monty 11/19/2014 23:44",
+		"string:" : "monty 1/1/2014 07:23",
+		"indexOfSubstring:" : "monty 2/2/2015 17:29",
+		"addContent:" : "monty 10/26/2014 05:53",
+		"asXMLString" : "JAAyer 7/22/2010 05:19",
+		"asXMLEscapedString" : "monty 11/4/2014 14:51",
+		"append:" : "monty 11/3/2014 22:12",
+		"endsWith:" : "monty 11/3/2014 21:43",
+		"splitAt:" : "monty 11/3/2014 22:02",
+		"isStringNode:" : "monty 11/5/2014 12:09",
+		"isString:" : "monty 11/5/2014 12:05",
+		"deleteFrom:to:" : "monty 11/4/2014 12:38",
+		"isEmpty" : "monty 11/3/2014 22:28",
+		"isWhitespace" : "monty 11/14/2015 20:08"
+	},
+	"class" : {
+		"string:" : "JAAyer 2/25/2010 01:48"
+	}
+}

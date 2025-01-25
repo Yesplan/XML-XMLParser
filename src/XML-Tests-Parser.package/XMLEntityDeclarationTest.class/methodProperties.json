@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"nodeClass" : "monty 11/23/2014 18:46",
+		"testName" : "monty 11/23/2014 18:49",
+		"testNamePublicIDSystemID" : "monty 11/23/2014 18:59",
+		"testPublicID" : "monty 11/23/2014 18:50",
+		"testReplacement" : "monty 11/23/2014 18:49",
+		"testSystemID" : "monty 11/23/2014 18:50",
+		"testIsParameter" : "monty 11/23/2014 19:02",
+		"testNameReplacement" : "monty 11/23/2014 18:58"
+	},
+	"class" : {
+		"isAbstract" : "monty 11/23/2014 18:47"
+	}
+}

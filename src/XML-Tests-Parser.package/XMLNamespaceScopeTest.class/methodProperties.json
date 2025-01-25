@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"testHasDefaultNamespace" : "monty 4/21/2015 12:49",
+		"testPrefixesOfNamespaceURI" : "monty 4/21/2015 12:29",
+		"testMapPrefixTo" : "monty 4/21/2015 13:36",
+		"testInheritMappingsFrom" : "monty 12/28/2014 23:57",
+		"testEquals" : "monty 12/28/2014 23:31",
+		"testIncludesPrefixMappedTo" : "monty 4/21/2015 11:46",
+		"testCopy" : "monty 4/21/2015 13:27",
+		"testPrefixMappingAt" : "monty 4/21/2015 12:15",
+		"testDefaultNamespace" : "monty 4/21/2015 13:41",
+		"testPrefixesAndURIsDo" : "monty 4/21/2015 11:49",
+		"testMapPrefixesAndURIs" : "monty 4/21/2015 12:13",
+		"testPrefixMappingAtIfAbsent" : "monty 4/21/2015 12:17",
+		"testResolvePrefix" : "monty 4/12/2015 11:50",
+		"namespaces" : "monty 12/29/2014 17:54",
+		"testIncludesPrefix" : "monty 4/21/2015 11:46",
+		"newNamespaceScope" : "monty 12/28/2014 23:18",
+		"testUnmapPrefix" : "monty 4/21/2015 13:35",
+		"testHasNamespaces" : "monty 4/21/2015 11:36",
+		"testSize" : "monty 12/28/2014 23:30",
+		"newNamespaceScopeWithNamespaces" : "monty 12/28/2014 23:24",
+		"testResolvePrefixIfUnresolvable" : "monty 4/12/2015 11:52"
+	},
+	"class" : { }
+}
